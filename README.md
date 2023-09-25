@@ -1,8 +1,14 @@
 # MedicalApp
 
+# Lien vers l’animation de prototypage d'une premiere version de l'application: https://www.figma.com/proto/ElivQiGpBVvygONwj1qFgi/Projet-PPE?node-id=187-407&scaling=scale-down&page-id=0%3A1&starting-point-node-id=187%3A407
+
+Lien vers les interfaces figma: 
+https://www.figma.com/file/ElivQiGpBVvygONwj1qFgi/Projet-PPE?node-id=0%3A1&t=X2vFdPGaR32wHdZw-1
+
+
 L'application de suivi des patients à l'hôpital est un outil conçu pour améliorer l'expérience des patients et de leurs accompagnateurs en fournissant des informations en temps réel sur les services de l'hôpital et le temps d'attente. Cependant, en raison de la nature des informations sensibles qui sont traitées, la sécurité de l'application doit être prise en compte. Ce rapport présente une analyse de la fonctionnalité de l'application de suivi des patients à l'hôpital ainsi que les mesures de cybersécurité prises pour protéger les informations des patients.
 
-1) Interface figma de l’application
+# Interface figma de l’application
 
   * Interface utilisateur
 
@@ -29,7 +35,7 @@ La page d'estimation du temps d'attente affiche une estimation du temps d'attent
 Cette page doit envoyer une notification à l'accompagnateur pour l'en informer et pour lui indiquer le temps d'attente estimé
 
 
-2) Fonctionnalités de l'application :
+# Fonctionnalités de l'application :
 
 L'application de suivi des patients à l'hôpital est conçue pour fournir une expérience sans stress aux patients et à leurs accompagnateurs. Les principales fonctionnalités de l'application sont les suivantes :
 
@@ -48,7 +54,7 @@ L'application de suivi des patients à l'hôpital est conçue pour fournir une e
 * Outils de communication pour permettre une communication facile avec le personnel soignant.
 
 
-3) Sécurité de l’application:
+# Sécurité de l’application:
 
 La sécurité des informations des patients est primordiale dans l'application de suivi des patients à l'hôpital. Les mesures suivantes ont été prises pour garantir la cybersécurité de l'application :
 
@@ -66,7 +72,7 @@ La sécurité des informations des patients est primordiale dans l'application d
 * Coordination des activités de réponse aux incidents en cas d'incident de sécurité, en travaillant avec les équipes de sécurité de l'organisation pour enquêter sur l'incident, contenir les dommages et prévenir de futures attaques.
 
 
-4) Analyse des données de l’application
+# Analyse des données de l’application
 
 Garantir que l'application dispose des données nécessaires pour fonctionner efficacement. Voici un aperçu des tâches typiques qu'elle peut effectuer :
 
